@@ -94,21 +94,10 @@ Medido el 19 de noviembre de 2026 en Windows 10, con la versión 1.0.0:
 - Con el editor abierto sobre una captura de 1280 × 800: unos 25 MB de
   memoria; quieto, 0 % de procesador.
 
-## Créditos
-
-Cordel está inspirada en [Tendedero](https://tendedero.app), de Alejandro
-Buján, una aplicación para macOS de código abierto (licencia MIT). Su editor
-de capturas toma ideas de las funciones de
-[Flameshot](https://flameshot.org) (GPL v3). El código de Cordel está escrito
-desde cero y no incluye código de ninguna de las dos; su nombre, su icono y
-su aspecto son propios.
-
-Dentro del programa van además piezas de otros autores con licencias libres:
-la biblioteca estándar de Rust, las de Microsoft para hablar con Windows,
-SQLite y alguna más. Sus avisos están en
-[AVISOS-DE-TERCEROS.txt](AVISOS-DE-TERCEROS.txt).
-
 ## Licencia
 
 Cordel se reparte con licencia [MIT](LICENSE): se puede usar, copiar y
 repartir libremente. Su código fuente no está publicado.
+
+Las piezas con licencia libre que lleva dentro tienen sus avisos en
+[AVISOS-DE-TERCEROS.txt](AVISOS-DE-TERCEROS.txt).
