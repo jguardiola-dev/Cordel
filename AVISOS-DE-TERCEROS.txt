@@ -3,7 +3,7 @@ AVISOS DE TERCEROS
 
 Cordel lleva dentro código de otros autores, usado sin cambios y con su permiso: el que dan sus
 licencias, que piden que estos avisos acompañen al programa. Valen para Cordel.exe y para lo que
-instala Cordel-instalar.exe, en la versión 1.0.0.
+instala Cordel-instalar.exe, en la versión 1.0.1.
 
 Cordel en sí es de jguardiola-dev y tiene su propia licencia (MIT), en el archivo LICENSE.
 
